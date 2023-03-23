@@ -1,3 +1,45 @@
-#body{
+body{
     font-family: sans-serif;
+    background-color: rgb(10, 9, 9);
+    color: rgb(255, 255, 255);
 }
+.menu-container{
+    background-color: rgb(39, 39, 44);
+    width: 20%;
+    height: 100%;
+    float: left;
+}
+    
+.amarillo-container{
+    background-color: rgb(199, 236, 33);
+    width: 80%;
+    height: 25%;
+}
+    
+.verde-container{
+    background-color: rgb(25, 199, 83);
+    width: 80%;
+    height: 25%;
+}
+    
+.azul-container{
+    background-color: rgb(22, 22, 170);
+    width: 80%;
+    height: 25%;
+}
+    
+.morado-container{
+    background-color: rgb(142, 12, 228);
+    width: 80%;
+    height: 25%;
+}
+    
+a{ 
+    color: rgb(255, 255, 255);
+}
+    
+a:hover{
+    color: rgba(160, 156, 156, 0.267);
+}
+    
+    
