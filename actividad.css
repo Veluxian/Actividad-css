@@ -14,28 +14,28 @@ body{
     background-color: rgb(199, 236, 33);
     width: 80%;
     height: 25%;
-    padding: 2;
+    padding: 2%;
 }
     
 .verde-container{
     background-color: rgb(25, 199, 83);
     width: 80%;
     height: 25%;
-    padding: 2;
+    padding: 2%;
 }
     
 .azul-container{
     background-color: rgb(22, 22, 170);
     width: 80%;
     height: 25%;
-    padding: 2;
+    padding: 2%;
 }
     
 .morado-container{
     background-color: rgb(142, 12, 228);
     width: 80%;
     height: 25%;
-    padding: 2;
+    padding: 2%;
 }
     
 a{ 
