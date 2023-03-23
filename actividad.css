@@ -6,7 +6,7 @@ body{
 .menu-container{
     background-color: rgb(39, 39, 44);
     width: 20%;
-    height: 100%;
+    padding-bottom: 100%;
     float: left;
 }
     
