@@ -5,6 +5,7 @@ body{
 }
 .menu-container{
     background-color: rgb(39, 39, 44);
+    display: block;
     width: 20%;
     padding-bottom: 100%;
     float: left;
