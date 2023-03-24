@@ -1,0 +1,54 @@
+body{
+    font-family: sans-serif;
+    background-color: rgb(10, 9, 9);
+    color: rgb(255, 255, 255);
+}
+
+#test{
+    display: block;
+    
+}
+.menu-container{
+    background-color: rgb(39, 39, 44);
+    display: block;
+    width: 20%;
+    padding-bottom: 100%;
+    float: left;   
+}
+
+.amarillo-container{
+    background-color: rgb(199, 236, 33);
+    display: block;
+    height: 25%;
+    padding: 1%;
+}
+
+.verde-container{
+    background-color: rgb(25, 199, 83);
+    display: block;
+    height: 25%;
+    padding: 1%;
+}
+
+.azul-container{
+    background-color: rgb(22, 22, 170);
+    display: block;
+    height: 25%;
+    padding: 1%;
+    
+}
+
+.morado-container{
+    background-color: rgb(142, 12, 228);
+    display: block;
+    line-height: 25%;
+    padding: 1%;
+}
+
+a{ 
+    color: rgb(255, 255, 255);
+}
+
+a:hover{
+    color: rgba(207, 202, 202, 0.685);
+}
