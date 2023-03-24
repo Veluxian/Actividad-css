@@ -10,9 +10,11 @@ body{
 .menu-container{
     background-color: rgb(39, 39, 44);
     display: block;
-    width: 20%;
     height: 100%;
-    float: left;
+    width: 20% ;
+    top: 0;
+    left: 0;
+    position: fixed;
       
 }
 
