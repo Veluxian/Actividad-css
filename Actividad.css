@@ -2,27 +2,25 @@ body{
     font-family: sans-serif;
     background-color: rgb(10, 9, 9);
     color: rgb(255, 255, 255);
-    height: 100%;
-    width: 100%;
-    position: absolute;
+    height: 745px;
 }
 
+#test{
+    display: block;
+    
+}
 .menu-container{
     background-color: rgb(39, 39, 44);
     display: block;
-    height: 100%;
-    width: 20% ;
-    top: 0;
-    left: 0;
-    position: fixed;
-      
+    width: 20%;
+    height: 900px;
+    float: left;   
 }
 
 .amarillo-container{
     background-color: rgb(199, 236, 33);
     display: block;
     height: 25%;
-    width: 100%;
     padding: 1%;
 }
 
@@ -30,7 +28,6 @@ body{
     background-color: rgb(25, 199, 83);
     display: block;
     height: 25%;
-    width: 100%;
     padding: 1%;
 }
 
@@ -38,7 +35,6 @@ body{
     background-color: rgb(22, 22, 170);
     display: block;
     height: 25%;
-    width: 100%;
     padding: 1%;
     
 }
@@ -47,7 +43,6 @@ body{
     background-color: rgb(142, 12, 228);
     display: block;
     height: 25%;
-    width: 100%;
     padding: 1%;
 }
 
@@ -57,8 +52,4 @@ a{
 
 a:hover{
     color: rgba(207, 202, 202, 0.685);
-}
-
-p{
-    text-align: center;
 }
